@@ -1,0 +1,8 @@
+{
+  "hardness": 3,
+  "mass": 100,
+  "translucent": true,
+  "doubleSided": true,
+  //Links to texture in .blockTiles
+  "tile": "SimpleFarming:PearBush"
+}
